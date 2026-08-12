@@ -1,0 +1,10 @@
+  bug-fix-revert
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-revert
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+  bug-fix-revert a16f40a Add bug-fix-revert change
+  bug-fix-typo   39b172d Fix typo in README
+* main           d9a6638 [origin/main] Merge origin/main into main, resolve README conflict
